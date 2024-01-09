@@ -21,17 +21,15 @@ struct TreeView: View {
     }
     
     var body: some View {
-//        NavigationView {
-            List(filteredPersons/*.sorted {$0.name < $1.name}*/, id: \.personID) { person in
-                NavigationLink(destination: PersonDetailView(person: person, viewModel: viewModel)) {
-                    Text(person.name)
-                        .font(.headline)
-                }
+        List(filteredPersons/*.sorted {$0.name < $1.name}*/, id: \.personID) { person in
+            NavigationLink(destination: PersonDetailView(person: person, viewModel: viewModel)) {
+                Text(person.name)
+                    .font(.headline)
             }
-            .searchable(text: $searchText, prompt: "Search")
-            .navigationTitle("Greek Mythology")
-            .onAppear(perform: viewModel.loadPersons)
-//        }
+        }
+        .searchable(text: $searchText, prompt: "Search")
+        .navigationTitle("Greek Mythology")
+        .onAppear(perform: viewModel.loadPersons)
     }
 
 
