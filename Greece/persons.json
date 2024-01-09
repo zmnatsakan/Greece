@@ -1,0 +1,4796 @@
+[
+    {
+        "personID": 1,
+        "name": "Zeus",
+        "gender": "male",
+        "mother": {
+            "personID": 69,
+            "name": "Rhea"
+        },
+        "father": {
+            "personID": 70,
+            "name": "Cronos"
+        },
+        "spouse": [
+            {
+                "personID": 67,
+                "name": "Hera"
+            }
+        ],
+        "son": [
+            {
+                "personID": 29,
+                "name": "Dionysus"
+            },
+            {
+                "personID": 35,
+                "name": "Apollo"
+            },
+            {
+                "personID": 40,
+                "name": "Aeacus"
+            },
+            {
+                "personID": 60,
+                "name": "Tantalus"
+            },
+            {
+                "personID": 66,
+                "name": "Ares"
+            },
+            {
+                "personID": 108,
+                "name": "Heracles"
+            },
+            {
+                "personID": 280,
+                "name": "Perseus"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 65,
+                "name": "Aphrodite"
+            },
+            {
+                "personID": 133,
+                "name": "Hebe"
+            },
+            {
+                "personID": 239,
+                "name": "Persephone"
+            },
+            {
+                "personID": 279,
+                "name": "Athene"
+            },
+            {
+                "personID": 306,
+                "name": "Artemis"
+            }
+        ],
+        "description": "Zeus, the king of the gods in Greek mythology, is known for his control over the sky and thunder. He is a central figure in numerous myths, often depicted as powerful and imposing."
+    },
+    {
+        "personID": 2,
+        "name": "Bellerophon",
+        "gender": "male",
+        "mother": {
+            "personID": 7,
+            "name": "Eurynome"
+        },
+        "father": {
+            "personID": 4,
+            "name": "Poseidon"
+        },
+        "description": "Bellerophon, a hero in Greek mythology, is best known for taming and riding the winged horse Pegasus and defeating the Chimera."
+    },
+    {
+        "personID": 3,
+        "name": "Glaucus",
+        "gender": "male",
+        "mother": {
+            "personID": 6,
+            "name": "Merope"
+        },
+        "father": {
+            "personID": 5,
+            "name": "Sisyphus"
+        },
+        "spouse": [
+            {
+                "personID": 7,
+                "name": "Eurynome"
+            }
+        ],
+        "son": [
+            {
+                "personID": 2,
+                "name": "Bellerophon"
+            }
+        ],
+        "description": "Glaucus, in Greek mythology, is known for his transformation into a sea god after consuming a magical herb, becoming a symbol of the sea's mystery."
+    },
+    {
+        "personID": 4,
+        "name": "Poseidon",
+        "gender": "male",
+        "mother": {
+            "personID": 69,
+            "name": "Rhea"
+        },
+        "father": {
+            "personID": 70,
+            "name": "Cronos"
+        },
+        "son": [
+            {
+                "personID": 2,
+                "name": "Bellerophon"
+            },
+            {
+                "personID": 147,
+                "name": "Hippothoon"
+            }
+        ],
+        "description": "Poseidon, the god of the sea, horses, and earthquakes, is a major deity known for his powerful and tempestuous nature."
+    },
+    {
+        "personID": 5,
+        "name": "Sisyphus",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 6,
+                "name": "Merope"
+            }
+        ],
+        "son": [
+            {
+                "personID": 3,
+                "name": "Glaucus"
+            }
+        ],
+        "description": "Sisyphus is famous for his punishment of eternally rolling a boulder uphill, symbolizing endless effort and futility."
+    },
+    {
+        "personID": 8,
+        "name": "Polynices",
+        "gender": "male",
+        "mother": {
+            "personID": 18,
+            "name": "Jocasta"
+        },
+        "father": {
+            "personID": 17,
+            "name": "Oedipus"
+        },
+        "spouse": [
+            {
+                "personID": 9,
+                "name": "Argea"
+            }
+        ],
+        "son": [
+            {
+                "personID": 10,
+                "name": "Thersander"
+            }
+        ],
+        "description": "A key figure in the story of Thebes, known for his role in the conflict with his brother Eteocles and his part in the tragic events of the city."
+    },
+    {
+        "personID": 10,
+        "name": "Thersander",
+        "gender": "male",
+        "mother": {
+            "personID": 9,
+            "name": "Argea"
+        },
+        "father": {
+            "personID": 8,
+            "name": "Polynices"
+        },
+        "son": [
+            {
+                "personID": 12,
+                "name": "Tisamenus"
+            }
+        ],
+        "description": "A hero in Greek mythology, Thersander played a role in the Trojan War, representing the valor and turmoil of that era."
+    },
+    {
+        "personID": 12,
+        "name": "Tisamenus",
+        "gender": "male",
+        "father": {
+            "personID": 10,
+            "name": "Thersander"
+        },
+        "description": "A seer in Greek mythology, known for his wisdom and prophetic abilities, playing a significant role in the tales of Greek heroes."
+    },
+    {
+        "personID": 14,
+        "name": "Agenor",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 15,
+                "name": "Telephassa"
+            }
+        ],
+        "son": [
+            {
+                "personID": 20,
+                "name": "Cadmus"
+            },
+            {
+                "personID": 21,
+                "name": "Cilix"
+            },
+            {
+                "personID": 22,
+                "name": "Phoenix"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 13,
+                "name": "Europa"
+            }
+        ],
+        "description": "A king in Greek mythology, known for his royal lineage and as the father of several important mythological figures."
+    },
+    {
+        "personID": 17,
+        "name": "Oedipus",
+        "gender": "male",
+        "mother": {
+            "personID": 18,
+            "name": "Jocasta"
+        },
+        "father": {
+            "personID": 19,
+            "name": "Laius"
+        },
+        "spouse": [
+            {
+                "personID": 18,
+                "name": "Jocasta"
+            }
+        ],
+        "son": [
+            {
+                "personID": 8,
+                "name": "Polynices"
+            },
+            {
+                "personID": 288,
+                "name": "Eteokles"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 289,
+                "name": "Ismene"
+            },
+            {
+                "personID": 290,
+                "name": "Antigone"
+            }
+        ],
+        "description": "Known for his tragic fate, which included unwittingly killing his father and marrying his mother, becoming a symbol of tragic destiny."
+    },
+    {
+        "personID": 19,
+        "name": "Laius",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 18,
+                "name": "Jocasta"
+            }
+        ],
+        "son": [
+            {
+                "personID": 17,
+                "name": "Oedipus"
+            }
+        ],
+        "description": "The king of Thebes and father of Oedipus, Laius is a central figure in the tragic events that befell the city of Thebes."
+    },
+    {
+        "personID": 20,
+        "name": "Cadmus",
+        "gender": "male",
+        "mother": {
+            "personID": 15,
+            "name": "Telephassa"
+        },
+        "father": {
+            "personID": 14,
+            "name": "Agenor"
+        },
+        "spouse": [
+            {
+                "personID": 23,
+                "name": "Harmonia"
+            }
+        ],
+        "son": [
+            {
+                "personID": 25,
+                "name": "Polydorus"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 24,
+                "name": "Agave"
+            },
+            {
+                "personID": 26,
+                "name": "Autono\u00eb"
+            },
+            {
+                "personID": 27,
+                "name": "Ino"
+            },
+            {
+                "personID": 28,
+                "name": "Semele"
+            }
+        ],
+        "description": "Founder and first king of Thebes, Cadmus is known for slaying the dragon and sowing its teeth, from which sprang the Spartoi warriors."
+    },
+    {
+        "personID": 21,
+        "name": "Cilix",
+        "gender": "male",
+        "mother": {
+            "personID": 15,
+            "name": "Telephassa"
+        },
+        "father": {
+            "personID": 14,
+            "name": "Agenor"
+        },
+        "description": "A figure in Greek mythology, known for his search for his sister Europa and for being the eponymous founder of Cilicia."
+    },
+    {
+        "personID": 22,
+        "name": "Phoenix",
+        "gender": "male",
+        "mother": {
+            "personID": 15,
+            "name": "Telephassa"
+        },
+        "father": {
+            "personID": 14,
+            "name": "Agenor"
+        },
+        "description": "A character associated with several stories in Greek mythology, often involving themes of rebirth and renewal."
+    },
+    {
+        "personID": 25,
+        "name": "Polydorus",
+        "gender": "male",
+        "mother": {
+            "personID": 23,
+            "name": "Harmonia"
+        },
+        "father": {
+            "personID": 20,
+            "name": "Cadmus"
+        },
+        "description": "Known in various myths, including his roles in stories related to Troy and Thebes, symbolizing the interconnected nature of Greek myths."
+    },
+    {
+        "personID": 29,
+        "name": "Dionysus",
+        "gender": "male",
+        "mother": {
+            "personID": 28,
+            "name": "Semele"
+        },
+        "father": {
+            "personID": 1,
+            "name": "Zeus"
+        },
+        "spouse": [
+            {
+                "personID": 151,
+                "name": "Ariadne"
+            }
+        ],
+        "description": "The god of wine, festivity, and ecstasy, Dionysus is celebrated for his jovial nature and the wild festivities held in his honor."
+    },
+    {
+        "personID": 30,
+        "name": "Echion",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 24,
+                "name": "Agave"
+            }
+        ],
+        "son": [
+            {
+                "personID": 31,
+                "name": "Pentheus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 31,
+        "name": "Pentheus",
+        "gender": "male",
+        "mother": {
+            "personID": 24,
+            "name": "Agave"
+        },
+        "father": {
+            "personID": 30,
+            "name": "Echion"
+        },
+        "description": ""
+    },
+    {
+        "personID": 32,
+        "name": "Xuthus",
+        "gender": "male",
+        "father": {
+            "personID": 176,
+            "name": "Hellen"
+        },
+        "spouse": [
+            {
+                "personID": 33,
+                "name": "Creusa"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 34,
+        "name": "Ion",
+        "gender": "male",
+        "mother": {
+            "personID": 33,
+            "name": "Creusa"
+        },
+        "father": {
+            "personID": 35,
+            "name": "Apollo"
+        },
+        "description": ""
+    },
+    {
+        "personID": 35,
+        "name": "Apollo",
+        "gender": "male",
+        "mother": {
+            "personID": 73,
+            "name": "Leto"
+        },
+        "father": {
+            "personID": 1,
+            "name": "Zeus"
+        },
+        "son": [
+            {
+                "personID": 34,
+                "name": "Ion"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 36,
+        "name": "Daedalus",
+        "gender": "male",
+        "son": [
+            {
+                "personID": 37,
+                "name": "Icarus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 37,
+        "name": "Icarus",
+        "gender": "male",
+        "father": {
+            "personID": 36,
+            "name": "Daedalus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 38,
+        "name": "Actaeon",
+        "gender": "male",
+        "mother": {
+            "personID": 26,
+            "name": "Autono\u00eb"
+        },
+        "father": {
+            "personID": 39,
+            "name": "Aristaeus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 39,
+        "name": "Aristaeus",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 26,
+                "name": "Autono\u00eb"
+            }
+        ],
+        "son": [
+            {
+                "personID": 38,
+                "name": "Actaeon"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 40,
+        "name": "Aeacus",
+        "gender": "male",
+        "mother": {
+            "personID": 43,
+            "name": "Aegina"
+        },
+        "father": {
+            "personID": 1,
+            "name": "Zeus"
+        },
+        "spouse": [
+            {
+                "personID": 41,
+                "name": "Ende\u00efs"
+            }
+        ],
+        "son": [
+            {
+                "personID": 48,
+                "name": "Phocus"
+            },
+            {
+                "personID": 49,
+                "name": "Peleus"
+            },
+            {
+                "personID": 50,
+                "name": "Telamon"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 48,
+        "name": "Phocus",
+        "gender": "male",
+        "mother": {
+            "personID": 42,
+            "name": "Psamathe"
+        },
+        "father": {
+            "personID": 40,
+            "name": "Aeacus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 49,
+        "name": "Peleus",
+        "gender": "male",
+        "mother": {
+            "personID": 41,
+            "name": "Ende\u00efs"
+        },
+        "father": {
+            "personID": 40,
+            "name": "Aeacus"
+        },
+        "spouse": [
+            {
+                "personID": 59,
+                "name": "Thetis"
+            }
+        ],
+        "son": [
+            {
+                "personID": 58,
+                "name": "Achilles"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 50,
+        "name": "Telamon",
+        "gender": "male",
+        "mother": {
+            "personID": 41,
+            "name": "Ende\u00efs"
+        },
+        "father": {
+            "personID": 40,
+            "name": "Aeacus"
+        },
+        "spouse": [
+            {
+                "personID": 124,
+                "name": "Hesione"
+            }
+        ],
+        "son": [
+            {
+                "personID": 57,
+                "name": "Ajax"
+            },
+            {
+                "personID": 125,
+                "name": "Teucer"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 52,
+        "name": "Hermes",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 51,
+                "name": "Herse"
+            }
+        ],
+        "son": [
+            {
+                "personID": 53,
+                "name": "Cephalus"
+            },
+            {
+                "personID": 308,
+                "name": "Pan"
+            },
+            {
+                "personID": 315,
+                "name": "Hermaphroditus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 53,
+        "name": "Cephalus",
+        "gender": "male",
+        "mother": {
+            "personID": 51,
+            "name": "Herse"
+        },
+        "father": {
+            "personID": 52,
+            "name": "Hermes"
+        },
+        "spouse": [
+            {
+                "personID": 54,
+                "name": "Procris"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 55,
+        "name": "Erechtheus",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 56,
+                "name": "Praxithea"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 54,
+                "name": "Procris"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 57,
+        "name": "Ajax",
+        "gender": "male",
+        "father": {
+            "personID": 50,
+            "name": "Telamon"
+        },
+        "description": ""
+    },
+    {
+        "personID": 58,
+        "name": "Achilles",
+        "gender": "male",
+        "mother": {
+            "personID": 59,
+            "name": "Thetis"
+        },
+        "father": {
+            "personID": 49,
+            "name": "Peleus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 60,
+        "name": "Tantalus",
+        "gender": "male",
+        "mother": {
+            "personID": 61,
+            "name": "Plouto"
+        },
+        "father": {
+            "personID": 1,
+            "name": "Zeus"
+        },
+        "son": [
+            {
+                "personID": 299,
+                "name": "Pelops"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 85,
+                "name": "Niobe"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 64,
+        "name": "Eros",
+        "gender": "male",
+        "mother": {
+            "personID": 65,
+            "name": "Aphrodite"
+        },
+        "father": {
+            "personID": 66,
+            "name": "Ares"
+        },
+        "spouse": [
+            {
+                "personID": 63,
+                "name": "Psyche"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 62,
+                "name": "Hedone"
+            }
+        ],
+        "description": "The god of love and son of Aphrodite, Eros is known for causing people to fall in love, often depicted with a bow and arrows."
+    },
+    {
+        "personID": 66,
+        "name": "Ares",
+        "gender": "male",
+        "mother": {
+            "personID": 67,
+            "name": "Hera"
+        },
+        "father": {
+            "personID": 1,
+            "name": "Zeus"
+        },
+        "spouse": [
+            {
+                "personID": 65,
+                "name": "Aphrodite"
+            }
+        ],
+        "son": [
+            {
+                "personID": 64,
+                "name": "Eros"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 23,
+                "name": "Harmonia"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 70,
+        "name": "Cronos",
+        "gender": "male",
+        "mother": {
+            "personID": 72,
+            "name": "Gaia"
+        },
+        "father": {
+            "personID": 71,
+            "name": "Uranus"
+        },
+        "spouse": [
+            {
+                "personID": 69,
+                "name": "Rhea"
+            }
+        ],
+        "son": [
+            {
+                "personID": 1,
+                "name": "Zeus"
+            },
+            {
+                "personID": 4,
+                "name": "Poseidon"
+            },
+            {
+                "personID": 240,
+                "name": "Hades"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 238,
+                "name": "Demeter"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 71,
+        "name": "Uranus",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 72,
+                "name": "Gaia"
+            }
+        ],
+        "son": [
+            {
+                "personID": 70,
+                "name": "Cronos"
+            },
+            {
+                "personID": 310,
+                "name": "Oceanus"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 69,
+                "name": "Rhea"
+            },
+            {
+                "personID": 159,
+                "name": "Phoebe"
+            },
+            {
+                "personID": 311,
+                "name": "Tethys"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 74,
+        "name": "Tiresias",
+        "gender": "male",
+        "description": ""
+    },
+    {
+        "personID": 77,
+        "name": "Rhacius",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 75,
+                "name": "Manto"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 78,
+        "name": "Amphion",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 85,
+                "name": "Niobe"
+            }
+        ],
+        "son": [
+            {
+                "personID": 79,
+                "name": "Ismenus"
+            },
+            {
+                "personID": 80,
+                "name": "Sipylus"
+            },
+            {
+                "personID": 81,
+                "name": "Phaedimus"
+            },
+            {
+                "personID": 82,
+                "name": "Alphenor"
+            },
+            {
+                "personID": 83,
+                "name": "Damasichthon"
+            },
+            {
+                "personID": 84,
+                "name": "Ilioneus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 79,
+        "name": "Ismenus",
+        "gender": "male",
+        "mother": {
+            "personID": 85,
+            "name": "Niobe"
+        },
+        "father": {
+            "personID": 78,
+            "name": "Amphion"
+        },
+        "description": ""
+    },
+    {
+        "personID": 80,
+        "name": "Sipylus",
+        "gender": "male",
+        "mother": {
+            "personID": 85,
+            "name": "Niobe"
+        },
+        "father": {
+            "personID": 78,
+            "name": "Amphion"
+        },
+        "description": ""
+    },
+    {
+        "personID": 81,
+        "name": "Phaedimus",
+        "gender": "male",
+        "mother": {
+            "personID": 85,
+            "name": "Niobe"
+        },
+        "father": {
+            "personID": 78,
+            "name": "Amphion"
+        },
+        "description": ""
+    },
+    {
+        "personID": 82,
+        "name": "Alphenor",
+        "gender": "male",
+        "mother": {
+            "personID": 85,
+            "name": "Niobe"
+        },
+        "father": {
+            "personID": 78,
+            "name": "Amphion"
+        },
+        "description": ""
+    },
+    {
+        "personID": 83,
+        "name": "Damasichthon",
+        "gender": "male",
+        "mother": {
+            "personID": 85,
+            "name": "Niobe"
+        },
+        "father": {
+            "personID": 78,
+            "name": "Amphion"
+        },
+        "description": ""
+    },
+    {
+        "personID": 84,
+        "name": "Ilioneus",
+        "gender": "male",
+        "mother": {
+            "personID": 85,
+            "name": "Niobe"
+        },
+        "father": {
+            "personID": 78,
+            "name": "Amphion"
+        },
+        "description": ""
+    },
+    {
+        "personID": 87,
+        "name": "Pandareus",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 86,
+                "name": "Hermothoe"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 88,
+                "name": "Aedon"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 89,
+        "name": "Zethus",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 88,
+                "name": "Aedon"
+            }
+        ],
+        "son": [
+            {
+                "personID": 90,
+                "name": "Ithylus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 90,
+        "name": "Ithylus",
+        "gender": "male",
+        "mother": {
+            "personID": 88,
+            "name": "Aedon"
+        },
+        "father": {
+            "personID": 89,
+            "name": "Zethus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 92,
+        "name": "Tyndareus",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 91,
+                "name": "Leda"
+            }
+        ],
+        "son": [
+            {
+                "personID": 93,
+                "name": "Castor"
+            },
+            {
+                "personID": 94,
+                "name": "Polydeuces"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 93,
+        "name": "Castor",
+        "gender": "male",
+        "mother": {
+            "personID": 91,
+            "name": "Leda"
+        },
+        "father": {
+            "personID": 92,
+            "name": "Tyndareus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 94,
+        "name": "Polydeuces",
+        "gender": "male",
+        "mother": {
+            "personID": 91,
+            "name": "Leda"
+        },
+        "father": {
+            "personID": 92,
+            "name": "Tyndareus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 96,
+        "name": "Aphareus",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 95,
+                "name": "Arene"
+            }
+        ],
+        "son": [
+            {
+                "personID": 97,
+                "name": "Lynceus"
+            },
+            {
+                "personID": 98,
+                "name": "Idas"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 97,
+        "name": "Lynceus",
+        "gender": "male",
+        "mother": {
+            "personID": 95,
+            "name": "Arene"
+        },
+        "father": {
+            "personID": 96,
+            "name": "Aphareus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 98,
+        "name": "Idas",
+        "gender": "male",
+        "mother": {
+            "personID": 95,
+            "name": "Arene"
+        },
+        "father": {
+            "personID": 96,
+            "name": "Aphareus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 100,
+        "name": "Oenomaus",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 99,
+                "name": "Sterope"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 101,
+                "name": "Alcippe"
+            },
+            {
+                "personID": 104,
+                "name": "Hippodamia"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 102,
+        "name": "Evenus",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 101,
+                "name": "Alcippe"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 103,
+                "name": "Marpessa"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 106,
+        "name": "Amphitryon",
+        "gender": "male",
+        "father": {
+            "personID": 296,
+            "name": "Alcaeus"
+        },
+        "spouse": [
+            {
+                "personID": 105,
+                "name": "Alcmene"
+            }
+        ],
+        "son": [
+            {
+                "personID": 107,
+                "name": "Iphicles"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 107,
+        "name": "Iphicles",
+        "gender": "male",
+        "mother": {
+            "personID": 105,
+            "name": "Alcmene"
+        },
+        "father": {
+            "personID": 106,
+            "name": "Amphitryon"
+        },
+        "description": ""
+    },
+    {
+        "personID": 108,
+        "name": "Heracles",
+        "gender": "male",
+        "mother": {
+            "personID": 105,
+            "name": "Alcmene"
+        },
+        "father": {
+            "personID": 1,
+            "name": "Zeus"
+        },
+        "spouse": [
+            {
+                "personID": 109,
+                "name": "Megara"
+            },
+            {
+                "personID": 133,
+                "name": "Hebe"
+            }
+        ],
+        "son": [
+            {
+                "personID": 131,
+                "name": "Hyllus"
+            },
+            {
+                "personID": 134,
+                "name": "Anicetos"
+            },
+            {
+                "personID": 135,
+                "name": "Alexiares"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 132,
+                "name": "Macaria"
+            }
+        ],
+        "description": "Famous for his incredible strength and for performing twelve labors, Heracles is one of the most celebrated heroes in Greek mythology."
+    },
+    {
+        "personID": 110,
+        "name": "Creon",
+        "gender": "male",
+        "daughter": [
+            {
+                "personID": 109,
+                "name": "Megara"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 111,
+        "name": "Helios",
+        "gender": "male",
+        "son": [
+            {
+                "personID": 112,
+                "name": "Augeas"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 112,
+        "name": "Augeas",
+        "gender": "male",
+        "father": {
+            "personID": 111,
+            "name": "Helios"
+        },
+        "son": [
+            {
+                "personID": 113,
+                "name": "Phyleus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 113,
+        "name": "Phyleus",
+        "gender": "male",
+        "father": {
+            "personID": 112,
+            "name": "Augeas"
+        },
+        "description": ""
+    },
+    {
+        "personID": 115,
+        "name": "Neleus",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 114,
+                "name": "Chloris"
+            }
+        ],
+        "son": [
+            {
+                "personID": 116,
+                "name": "Periclymenus"
+            },
+            {
+                "personID": 117,
+                "name": "Nestor"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 116,
+        "name": "Periclymenus",
+        "gender": "male",
+        "mother": {
+            "personID": 114,
+            "name": "Chloris"
+        },
+        "father": {
+            "personID": 115,
+            "name": "Neleus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 117,
+        "name": "Nestor",
+        "gender": "male",
+        "mother": {
+            "personID": 114,
+            "name": "Chloris"
+        },
+        "father": {
+            "personID": 115,
+            "name": "Neleus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 118,
+        "name": "Eurytos",
+        "gender": "male",
+        "son": [
+            {
+                "personID": 120,
+                "name": "Iphitos"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 119,
+                "name": "Iole"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 120,
+        "name": "Iphitos",
+        "gender": "male",
+        "father": {
+            "personID": 118,
+            "name": "Eurytos"
+        },
+        "description": ""
+    },
+    {
+        "personID": 125,
+        "name": "Teucer",
+        "gender": "male",
+        "mother": {
+            "personID": 124,
+            "name": "Hesione"
+        },
+        "father": {
+            "personID": 50,
+            "name": "Telamon"
+        },
+        "description": ""
+    },
+    {
+        "personID": 126,
+        "name": "Laomedon",
+        "gender": "male",
+        "son": [
+            {
+                "personID": 127,
+                "name": "Podarces"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 124,
+                "name": "Hesione"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 127,
+        "name": "Podarces",
+        "gender": "male",
+        "father": {
+            "personID": 126,
+            "name": "Laomedon"
+        },
+        "description": ""
+    },
+    {
+        "personID": 128,
+        "name": "Syleus",
+        "gender": "male",
+        "daughter": [
+            {
+                "personID": 129,
+                "name": "Xenodice"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 131,
+        "name": "Hyllus",
+        "gender": "male",
+        "mother": {
+            "personID": 130,
+            "name": "Deianira"
+        },
+        "father": {
+            "personID": 108,
+            "name": "Heracles"
+        },
+        "spouse": [
+            {
+                "personID": 119,
+                "name": "Iole"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 134,
+        "name": "Anicetos",
+        "gender": "male",
+        "mother": {
+            "personID": 133,
+            "name": "Hebe"
+        },
+        "father": {
+            "personID": 108,
+            "name": "Heracles"
+        },
+        "description": ""
+    },
+    {
+        "personID": 135,
+        "name": "Alexiares",
+        "gender": "male",
+        "mother": {
+            "personID": 133,
+            "name": "Hebe"
+        },
+        "father": {
+            "personID": 108,
+            "name": "Heracles"
+        },
+        "description": ""
+    },
+    {
+        "personID": 136,
+        "name": "Midas",
+        "gender": "male",
+        "son": [
+            {
+                "personID": 137,
+                "name": "Lityerses"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 137,
+        "name": "Lityerses",
+        "gender": "male",
+        "father": {
+            "personID": 136,
+            "name": "Midas"
+        },
+        "description": ""
+    },
+    {
+        "personID": 138,
+        "name": "Iolaus",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 109,
+                "name": "Megara"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 139,
+                "name": "Leipephilene"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 140,
+        "name": "Pelias",
+        "gender": "male",
+        "daughter": [
+            {
+                "personID": 141,
+                "name": "Alcestis"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 142,
+        "name": "Admetus",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 141,
+                "name": "Alcestis"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 143,
+        "name": "Oecles",
+        "gender": "male",
+        "son": [
+            {
+                "personID": 144,
+                "name": "Amphiaraus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 144,
+        "name": "Amphiaraus",
+        "gender": "male",
+        "father": {
+            "personID": 143,
+            "name": "Oecles"
+        },
+        "description": ""
+    },
+    {
+        "personID": 145,
+        "name": "Cercyon",
+        "gender": "male",
+        "daughter": [
+            {
+                "personID": 146,
+                "name": "Alope"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 147,
+        "name": "Hippothoon",
+        "gender": "male",
+        "mother": {
+            "personID": 146,
+            "name": "Alope"
+        },
+        "father": {
+            "personID": 4,
+            "name": "Poseidon"
+        },
+        "description": ""
+    },
+    {
+        "personID": 148,
+        "name": "Minos",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 152,
+                "name": "Pasiphae"
+            }
+        ],
+        "son": [
+            {
+                "personID": 150,
+                "name": "Androgeos"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 149,
+                "name": "Phaedra"
+            },
+            {
+                "personID": 151,
+                "name": "Ariadne"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 150,
+        "name": "Androgeos",
+        "gender": "male",
+        "mother": {
+            "personID": 152,
+            "name": "Pasiphae"
+        },
+        "father": {
+            "personID": 148,
+            "name": "Minos"
+        },
+        "description": ""
+    },
+    {
+        "personID": 153,
+        "name": "Pittheus",
+        "gender": "male",
+        "daughter": [
+            {
+                "personID": 154,
+                "name": "Aethra"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 155,
+        "name": "Aegeus",
+        "gender": "male",
+        "son": [
+            {
+                "personID": 156,
+                "name": "Theseus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 156,
+        "name": "Theseus",
+        "gender": "male",
+        "mother": {
+            "personID": 154,
+            "name": "Aethra"
+        },
+        "father": {
+            "personID": 155,
+            "name": "Aegeus"
+        },
+        "spouse": [
+            {
+                "personID": 157,
+                "name": "Antiope"
+            }
+        ],
+        "son": [
+            {
+                "personID": 158,
+                "name": "Hippolytus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 158,
+        "name": "Hippolytus",
+        "gender": "male",
+        "mother": {
+            "personID": 157,
+            "name": "Antiope"
+        },
+        "father": {
+            "personID": 156,
+            "name": "Theseus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 160,
+        "name": "Coeus",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 159,
+                "name": "Phoebe"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 73,
+                "name": "Leto"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 162,
+        "name": "Menelaus",
+        "gender": "male",
+        "mother": {
+            "personID": 166,
+            "name": "Aerope"
+        },
+        "father": {
+            "personID": 164,
+            "name": "Atreus"
+        },
+        "spouse": [
+            {
+                "personID": 166,
+                "name": "Aerope"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 161,
+                "name": "Hermione"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 164,
+        "name": "Atreus",
+        "gender": "male",
+        "mother": {
+            "personID": 104,
+            "name": "Hippodamia"
+        },
+        "father": {
+            "personID": 299,
+            "name": "Pelops"
+        },
+        "son": [
+            {
+                "personID": 162,
+                "name": "Menelaus"
+            },
+            {
+                "personID": 165,
+                "name": "Agamemnon"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 165,
+        "name": "Agamemnon",
+        "gender": "male",
+        "mother": {
+            "personID": 166,
+            "name": "Aerope"
+        },
+        "father": {
+            "personID": 164,
+            "name": "Atreus"
+        },
+        "spouse": [
+            {
+                "personID": 167,
+                "name": "Clytemnestra"
+            }
+        ],
+        "son": [
+            {
+                "personID": 168,
+                "name": "Orestes"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 169,
+                "name": "Electra"
+            },
+            {
+                "personID": 170,
+                "name": "Iphigenia"
+            }
+        ],
+        "description": "Agamemnon, a king and a leader in the Trojan War, is a symbol of kingly authority and the tragic consequences of pride."
+    },
+    {
+        "personID": 168,
+        "name": "Orestes",
+        "gender": "male",
+        "mother": {
+            "personID": 167,
+            "name": "Clytemnestra"
+        },
+        "father": {
+            "personID": 165,
+            "name": "Agamemnon"
+        },
+        "description": ""
+    },
+    {
+        "personID": 171,
+        "name": "Odysseus",
+        "gender": "male",
+        "mother": {
+            "personID": 173,
+            "name": "Anticlea"
+        },
+        "father": {
+            "personID": 172,
+            "name": "Laertes"
+        },
+        "spouse": [
+            {
+                "personID": 174,
+                "name": "Penelope"
+            }
+        ],
+        "son": [
+            {
+                "personID": 175,
+                "name": "Telemachus"
+            }
+        ],
+        "description": "Odysseus, the hero of the Odyssey, is renowned for his intellect, cunning, and the epic journey home from Troy."
+    },
+    {
+        "personID": 172,
+        "name": "Laertes",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 173,
+                "name": "Anticlea"
+            }
+        ],
+        "son": [
+            {
+                "personID": 171,
+                "name": "Odysseus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 175,
+        "name": "Telemachus",
+        "gender": "male",
+        "mother": {
+            "personID": 174,
+            "name": "Penelope"
+        },
+        "father": {
+            "personID": 171,
+            "name": "Odysseus"
+        },
+        "description": "Telemachus, the son of Odysseus, is known for his growth from youth to maturity and his search for his father."
+    },
+    {
+        "personID": 176,
+        "name": "Hellen",
+        "gender": "male",
+        "mother": {
+            "personID": 178,
+            "name": "Pyrrha"
+        },
+        "father": {
+            "personID": 177,
+            "name": "Deucalion"
+        },
+        "son": [
+            {
+                "personID": 32,
+                "name": "Xuthus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 177,
+        "name": "Deucalion",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 178,
+                "name": "Pyrrha"
+            }
+        ],
+        "son": [
+            {
+                "personID": 176,
+                "name": "Hellen"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 179,
+        "name": "Prometheus",
+        "gender": "male",
+        "mother": {
+            "personID": 183,
+            "name": "Clymene"
+        },
+        "father": {
+            "personID": 182,
+            "name": "Iapetus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 180,
+        "name": "Atlas",
+        "gender": "male",
+        "mother": {
+            "personID": 183,
+            "name": "Clymene"
+        },
+        "father": {
+            "personID": 182,
+            "name": "Iapetus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 181,
+        "name": "Epimetheus",
+        "gender": "male",
+        "mother": {
+            "personID": 183,
+            "name": "Clymene"
+        },
+        "father": {
+            "personID": 182,
+            "name": "Iapetus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 182,
+        "name": "Iapetus",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 183,
+                "name": "Clymene"
+            }
+        ],
+        "son": [
+            {
+                "personID": 179,
+                "name": "Prometheus"
+            },
+            {
+                "personID": 180,
+                "name": "Atlas"
+            },
+            {
+                "personID": 181,
+                "name": "Epimetheus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 232,
+        "name": "Erebus",
+        "gender": "male",
+        "daughter": [
+            {
+                "personID": 234,
+                "name": "Atrapos"
+            },
+            {
+                "personID": 235,
+                "name": "Clotho"
+            },
+            {
+                "personID": 236,
+                "name": "Lachesis"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 240,
+        "name": "Hades",
+        "gender": "male",
+        "mother": {
+            "personID": 69,
+            "name": "Rhea"
+        },
+        "father": {
+            "personID": 70,
+            "name": "Cronos"
+        },
+        "spouse": [
+            {
+                "personID": 239,
+                "name": "Persephone"
+            }
+        ],
+        "description": "The god of the underworld, Hades rules over the realm of the dead and is a figure representing the finality and solemnity of death."
+    },
+    {
+        "personID": 280,
+        "name": "Perseus",
+        "gender": "male",
+        "mother": {
+            "personID": 281,
+            "name": "Danae"
+        },
+        "father": {
+            "personID": 1,
+            "name": "Zeus"
+        },
+        "spouse": [
+            {
+                "personID": 294,
+                "name": "Andromeda"
+            }
+        ],
+        "son": [
+            {
+                "personID": 295,
+                "name": "Perses"
+            },
+            {
+                "personID": 296,
+                "name": "Alcaeus"
+            },
+            {
+                "personID": 297,
+                "name": "Sthenelus"
+            },
+            {
+                "personID": 298,
+                "name": "Electryon"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 282,
+        "name": "Acrisius",
+        "gender": "male",
+        "daughter": [
+            {
+                "personID": 281,
+                "name": "Danae"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 284,
+        "name": "Orpheus",
+        "gender": "male",
+        "mother": {
+            "personID": 286,
+            "name": "Calliope"
+        },
+        "father": {
+            "personID": 287,
+            "name": "Oeagrus"
+        },
+        "spouse": [
+            {
+                "personID": 283,
+                "name": "Eurydice"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 285,
+        "name": "Linus",
+        "gender": "male",
+        "mother": {
+            "personID": 286,
+            "name": "Calliope"
+        },
+        "father": {
+            "personID": 287,
+            "name": "Oeagrus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 287,
+        "name": "Oeagrus",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 286,
+                "name": "Calliope"
+            }
+        ],
+        "son": [
+            {
+                "personID": 284,
+                "name": "Orpheus"
+            },
+            {
+                "personID": 285,
+                "name": "Linus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 288,
+        "name": "Eteokles",
+        "gender": "male",
+        "mother": {
+            "personID": 18,
+            "name": "Jocasta"
+        },
+        "father": {
+            "personID": 17,
+            "name": "Oedipus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 292,
+        "name": "Cepheus",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 293,
+                "name": "Cassiopeia"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 294,
+                "name": "Andromeda"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 295,
+        "name": "Perses",
+        "gender": "male",
+        "mother": {
+            "personID": 294,
+            "name": "Andromeda"
+        },
+        "father": {
+            "personID": 280,
+            "name": "Perseus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 296,
+        "name": "Alcaeus",
+        "gender": "male",
+        "mother": {
+            "personID": 294,
+            "name": "Andromeda"
+        },
+        "father": {
+            "personID": 280,
+            "name": "Perseus"
+        },
+        "son": [
+            {
+                "personID": 106,
+                "name": "Amphitryon"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 297,
+        "name": "Sthenelus",
+        "gender": "male",
+        "mother": {
+            "personID": 294,
+            "name": "Andromeda"
+        },
+        "father": {
+            "personID": 280,
+            "name": "Perseus"
+        },
+        "spouse": [
+            {
+                "personID": 300,
+                "name": "Nikippe"
+            }
+        ],
+        "son": [
+            {
+                "personID": 301,
+                "name": "Eurystheus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 298,
+        "name": "Electryon",
+        "gender": "male",
+        "mother": {
+            "personID": 294,
+            "name": "Andromeda"
+        },
+        "father": {
+            "personID": 280,
+            "name": "Perseus"
+        },
+        "daughter": [
+            {
+                "personID": 105,
+                "name": "Alcmene"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 299,
+        "name": "Pelops",
+        "gender": "male",
+        "father": {
+            "personID": 60,
+            "name": "Tantalus"
+        },
+        "spouse": [
+            {
+                "personID": 104,
+                "name": "Hippodamia"
+            }
+        ],
+        "son": [
+            {
+                "personID": 164,
+                "name": "Atreus"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 300,
+                "name": "Nikippe"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 301,
+        "name": "Eurystheus",
+        "gender": "male",
+        "mother": {
+            "personID": 300,
+            "name": "Nikippe"
+        },
+        "father": {
+            "personID": 297,
+            "name": "Sthenelus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 302,
+        "name": "Peneus",
+        "gender": "male",
+        "daughter": [
+            {
+                "personID": 303,
+                "name": "Daphne"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 308,
+        "name": "Pan",
+        "gender": "male",
+        "father": {
+            "personID": 52,
+            "name": "Hermes"
+        },
+        "description": ""
+    },
+    {
+        "personID": 310,
+        "name": "Oceanus",
+        "gender": "male",
+        "mother": {
+            "personID": 72,
+            "name": "Gaia"
+        },
+        "father": {
+            "personID": 71,
+            "name": "Uranus"
+        },
+        "spouse": [
+            {
+                "personID": 311,
+                "name": "Tethys"
+            }
+        ],
+        "son": [
+            {
+                "personID": 312,
+                "name": "Cephissus"
+            },
+            {
+                "personID": 348,
+                "name": "Cebren"
+            },
+            {
+                "personID": 351,
+                "name": "Grenicus"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 318,
+                "name": "Liriope"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 312,
+        "name": "Cephissus",
+        "gender": "male",
+        "mother": {
+            "personID": 311,
+            "name": "Tethys"
+        },
+        "father": {
+            "personID": 310,
+            "name": "Oceanus"
+        },
+        "son": [
+            {
+                "personID": 313,
+                "name": "Narcissus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 313,
+        "name": "Narcissus",
+        "gender": "male",
+        "mother": {
+            "personID": 318,
+            "name": "Liriope"
+        },
+        "father": {
+            "personID": 312,
+            "name": "Cephissus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 315,
+        "name": "Hermaphroditus",
+        "gender": "male",
+        "mother": {
+            "personID": 65,
+            "name": "Aphrodite"
+        },
+        "father": {
+            "personID": 52,
+            "name": "Hermes"
+        },
+        "description": ""
+    },
+    {
+        "personID": 319,
+        "name": "Akoites",
+        "gender": "male",
+        "description": ""
+    },
+    {
+        "personID": 320,
+        "name": "Minyas",
+        "gender": "male",
+        "daughter": [
+            {
+                "personID": 321,
+                "name": "Alcathoe"
+            },
+            {
+                "personID": 322,
+                "name": "Leucippe"
+            },
+            {
+                "personID": 323,
+                "name": "Arsippe"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 324,
+        "name": "Pyramus",
+        "gender": "male",
+        "description": ""
+    },
+    {
+        "personID": 326,
+        "name": "Pandion",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 327,
+                "name": "Zeuxippe"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 328,
+                "name": "Philomela"
+            },
+            {
+                "personID": 329,
+                "name": "Procne"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 330,
+        "name": "Tereus",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 329,
+                "name": "Procne"
+            }
+        ],
+        "son": [
+            {
+                "personID": 331,
+                "name": "Itys"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 331,
+        "name": "Itys",
+        "gender": "male",
+        "mother": {
+            "personID": 329,
+            "name": "Procne"
+        },
+        "father": {
+            "personID": 330,
+            "name": "Tereus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 332,
+        "name": "Philemon",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 333,
+                "name": "Baucis"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 334,
+        "name": "Amyclas",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 335,
+                "name": "Diomede"
+            }
+        ],
+        "son": [
+            {
+                "personID": 336,
+                "name": "Hyacintus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 336,
+        "name": "Hyacintus",
+        "gender": "male",
+        "mother": {
+            "personID": 335,
+            "name": "Diomede"
+        },
+        "father": {
+            "personID": 334,
+            "name": "Amyclas"
+        },
+        "description": ""
+    },
+    {
+        "personID": 337,
+        "name": "Pygmalion",
+        "gender": "male",
+        "daughter": [
+            {
+                "personID": 338,
+                "name": "Paphos"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 339,
+        "name": "Cinyras",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 340,
+                "name": "Kenchreis"
+            }
+        ],
+        "son": [
+            {
+                "personID": 342,
+                "name": "Adonis"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 341,
+                "name": "Myrrha"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 342,
+        "name": "Adonis",
+        "gender": "male",
+        "mother": {
+            "personID": 341,
+            "name": "Myrrha"
+        },
+        "father": {
+            "personID": 339,
+            "name": "Cinyras"
+        },
+        "description": ""
+    },
+    {
+        "personID": 343,
+        "name": "Hippotes",
+        "gender": "male",
+        "son": [
+            {
+                "personID": 345,
+                "name": "Aeolus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 344,
+        "name": "Ceyx",
+        "gender": "male",
+        "father": {
+            "personID": 347,
+            "name": "Phosphorus"
+        },
+        "spouse": [
+            {
+                "personID": 346,
+                "name": "Alkyone"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 345,
+        "name": "Aeolus",
+        "gender": "male",
+        "father": {
+            "personID": 343,
+            "name": "Hippotes"
+        },
+        "daughter": [
+            {
+                "personID": 346,
+                "name": "Alkyone"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 347,
+        "name": "Phosphorus",
+        "gender": "male",
+        "son": [
+            {
+                "personID": 344,
+                "name": "Ceyx"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 348,
+        "name": "Cebren",
+        "gender": "male",
+        "mother": {
+            "personID": 311,
+            "name": "Tethys"
+        },
+        "father": {
+            "personID": 310,
+            "name": "Oceanus"
+        },
+        "daughter": [
+            {
+                "personID": 349,
+                "name": "Hesperia"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 351,
+        "name": "Grenicus",
+        "gender": "male",
+        "mother": {
+            "personID": 311,
+            "name": "Tethys"
+        },
+        "father": {
+            "personID": 310,
+            "name": "Oceanus"
+        },
+        "daughter": [
+            {
+                "personID": 350,
+                "name": "Alexirhoe"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 352,
+        "name": "Priam",
+        "gender": "male",
+        "spouse": [
+            {
+                "personID": 350,
+                "name": "Alexirhoe"
+            }
+        ],
+        "son": [
+            {
+                "personID": 353,
+                "name": "Aesacus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 353,
+        "name": "Aesacus",
+        "gender": "male",
+        "mother": {
+            "personID": 350,
+            "name": "Alexirhoe"
+        },
+        "father": {
+            "personID": 352,
+            "name": "Priam"
+        },
+        "description": ""
+    },
+    {
+        "personID": 6,
+        "name": "Merope",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 5,
+                "name": "Sisyphus"
+            }
+        ],
+        "son": [
+            {
+                "personID": 3,
+                "name": "Glaucus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 7,
+        "name": "Eurynome",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 3,
+                "name": "Glaucus"
+            }
+        ],
+        "son": [
+            {
+                "personID": 2,
+                "name": "Bellerophon"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 9,
+        "name": "Argea",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 8,
+                "name": "Polynices"
+            }
+        ],
+        "son": [
+            {
+                "personID": 10,
+                "name": "Thersander"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 13,
+        "name": "Europa",
+        "gender": "female",
+        "mother": {
+            "personID": 15,
+            "name": "Telephassa"
+        },
+        "father": {
+            "personID": 14,
+            "name": "Agenor"
+        },
+        "description": ""
+    },
+    {
+        "personID": 15,
+        "name": "Telephassa",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 14,
+                "name": "Agenor"
+            }
+        ],
+        "son": [
+            {
+                "personID": 20,
+                "name": "Cadmus"
+            },
+            {
+                "personID": 21,
+                "name": "Cilix"
+            },
+            {
+                "personID": 22,
+                "name": "Phoenix"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 13,
+                "name": "Europa"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 18,
+        "name": "Jocasta",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 17,
+                "name": "Oedipus"
+            },
+            {
+                "personID": 19,
+                "name": "Laius"
+            }
+        ],
+        "son": [
+            {
+                "personID": 8,
+                "name": "Polynices"
+            },
+            {
+                "personID": 17,
+                "name": "Oedipus"
+            },
+            {
+                "personID": 288,
+                "name": "Eteokles"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 289,
+                "name": "Ismene"
+            },
+            {
+                "personID": 290,
+                "name": "Antigone"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 23,
+        "name": "Harmonia",
+        "gender": "female",
+        "mother": {
+            "personID": 65,
+            "name": "Aphrodite"
+        },
+        "father": {
+            "personID": 66,
+            "name": "Ares"
+        },
+        "spouse": [
+            {
+                "personID": 20,
+                "name": "Cadmus"
+            }
+        ],
+        "son": [
+            {
+                "personID": 25,
+                "name": "Polydorus"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 24,
+                "name": "Agave"
+            },
+            {
+                "personID": 26,
+                "name": "Autono\u00eb"
+            },
+            {
+                "personID": 27,
+                "name": "Ino"
+            },
+            {
+                "personID": 28,
+                "name": "Semele"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 24,
+        "name": "Agave",
+        "gender": "female",
+        "mother": {
+            "personID": 23,
+            "name": "Harmonia"
+        },
+        "father": {
+            "personID": 20,
+            "name": "Cadmus"
+        },
+        "spouse": [
+            {
+                "personID": 30,
+                "name": "Echion"
+            }
+        ],
+        "son": [
+            {
+                "personID": 31,
+                "name": "Pentheus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 26,
+        "name": "Autono\u00eb",
+        "gender": "female",
+        "mother": {
+            "personID": 23,
+            "name": "Harmonia"
+        },
+        "father": {
+            "personID": 20,
+            "name": "Cadmus"
+        },
+        "spouse": [
+            {
+                "personID": 39,
+                "name": "Aristaeus"
+            }
+        ],
+        "son": [
+            {
+                "personID": 38,
+                "name": "Actaeon"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 27,
+        "name": "Ino",
+        "gender": "female",
+        "mother": {
+            "personID": 23,
+            "name": "Harmonia"
+        },
+        "father": {
+            "personID": 20,
+            "name": "Cadmus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 28,
+        "name": "Semele",
+        "gender": "female",
+        "mother": {
+            "personID": 23,
+            "name": "Harmonia"
+        },
+        "father": {
+            "personID": 20,
+            "name": "Cadmus"
+        },
+        "son": [
+            {
+                "personID": 29,
+                "name": "Dionysus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 33,
+        "name": "Creusa",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 32,
+                "name": "Xuthus"
+            }
+        ],
+        "son": [
+            {
+                "personID": 34,
+                "name": "Ion"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 41,
+        "name": "Ende\u00efs",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 40,
+                "name": "Aeacus"
+            }
+        ],
+        "son": [
+            {
+                "personID": 49,
+                "name": "Peleus"
+            },
+            {
+                "personID": 50,
+                "name": "Telamon"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 42,
+        "name": "Psamathe",
+        "gender": "female",
+        "son": [
+            {
+                "personID": 48,
+                "name": "Phocus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 43,
+        "name": "Aegina",
+        "gender": "female",
+        "son": [
+            {
+                "personID": 40,
+                "name": "Aeacus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 51,
+        "name": "Herse",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 52,
+                "name": "Hermes"
+            }
+        ],
+        "son": [
+            {
+                "personID": 53,
+                "name": "Cephalus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 54,
+        "name": "Procris",
+        "gender": "female",
+        "mother": {
+            "personID": 56,
+            "name": "Praxithea"
+        },
+        "father": {
+            "personID": 55,
+            "name": "Erechtheus"
+        },
+        "spouse": [
+            {
+                "personID": 53,
+                "name": "Cephalus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 56,
+        "name": "Praxithea",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 55,
+                "name": "Erechtheus"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 54,
+                "name": "Procris"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 59,
+        "name": "Thetis",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 49,
+                "name": "Peleus"
+            }
+        ],
+        "son": [
+            {
+                "personID": 58,
+                "name": "Achilles"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 61,
+        "name": "Plouto",
+        "gender": "female",
+        "son": [
+            {
+                "personID": 60,
+                "name": "Tantalus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 62,
+        "name": "Hedone",
+        "gender": "female",
+        "mother": {
+            "personID": 63,
+            "name": "Psyche"
+        },
+        "father": {
+            "personID": 64,
+            "name": "Eros"
+        },
+        "description": ""
+    },
+    {
+        "personID": 63,
+        "name": "Psyche",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 64,
+                "name": "Eros"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 62,
+                "name": "Hedone"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 65,
+        "name": "Aphrodite",
+        "gender": "female",
+        "mother": {
+            "personID": 68,
+            "name": "Dione"
+        },
+        "father": {
+            "personID": 1,
+            "name": "Zeus"
+        },
+        "spouse": [
+            {
+                "personID": 66,
+                "name": "Ares"
+            }
+        ],
+        "son": [
+            {
+                "personID": 64,
+                "name": "Eros"
+            },
+            {
+                "personID": 315,
+                "name": "Hermaphroditus"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 23,
+                "name": "Harmonia"
+            }
+        ],
+        "description": "Aphrodite, the goddess of love, beauty, and desire, is celebrated for her enchanting beauty and role in various love stories."
+    },
+    {
+        "personID": 67,
+        "name": "Hera",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 1,
+                "name": "Zeus"
+            }
+        ],
+        "son": [
+            {
+                "personID": 66,
+                "name": "Ares"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 133,
+                "name": "Hebe"
+            }
+        ],
+        "description": "Hera, the queen of the gods, is known for her marriage to Zeus and her role as the goddess of marriage and family."
+    },
+    {
+        "personID": 68,
+        "name": "Dione",
+        "gender": "female",
+        "daughter": [
+            {
+                "personID": 65,
+                "name": "Aphrodite"
+            },
+            {
+                "personID": 85,
+                "name": "Niobe"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 69,
+        "name": "Rhea",
+        "gender": "female",
+        "mother": {
+            "personID": 72,
+            "name": "Gaia"
+        },
+        "father": {
+            "personID": 71,
+            "name": "Uranus"
+        },
+        "spouse": [
+            {
+                "personID": 70,
+                "name": "Cronos"
+            }
+        ],
+        "son": [
+            {
+                "personID": 1,
+                "name": "Zeus"
+            },
+            {
+                "personID": 4,
+                "name": "Poseidon"
+            },
+            {
+                "personID": 240,
+                "name": "Hades"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 238,
+                "name": "Demeter"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 72,
+        "name": "Gaia",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 71,
+                "name": "Uranus"
+            }
+        ],
+        "son": [
+            {
+                "personID": 70,
+                "name": "Cronos"
+            },
+            {
+                "personID": 310,
+                "name": "Oceanus"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 69,
+                "name": "Rhea"
+            },
+            {
+                "personID": 159,
+                "name": "Phoebe"
+            },
+            {
+                "personID": 311,
+                "name": "Tethys"
+            }
+        ],
+        "description": "Gaia, the personification of the Earth, is a primordial deity and mother of many gods and titans in Greek mythology."
+    },
+    {
+        "personID": 73,
+        "name": "Leto",
+        "gender": "female",
+        "mother": {
+            "personID": 159,
+            "name": "Phoebe"
+        },
+        "father": {
+            "personID": 160,
+            "name": "Coeus"
+        },
+        "son": [
+            {
+                "personID": 35,
+                "name": "Apollo"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 306,
+                "name": "Artemis"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 75,
+        "name": "Manto",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 77,
+                "name": "Rhacius"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 85,
+        "name": "Niobe",
+        "gender": "female",
+        "mother": {
+            "personID": 68,
+            "name": "Dione"
+        },
+        "father": {
+            "personID": 60,
+            "name": "Tantalus"
+        },
+        "spouse": [
+            {
+                "personID": 78,
+                "name": "Amphion"
+            }
+        ],
+        "son": [
+            {
+                "personID": 79,
+                "name": "Ismenus"
+            },
+            {
+                "personID": 80,
+                "name": "Sipylus"
+            },
+            {
+                "personID": 81,
+                "name": "Phaedimus"
+            },
+            {
+                "personID": 82,
+                "name": "Alphenor"
+            },
+            {
+                "personID": 83,
+                "name": "Damasichthon"
+            },
+            {
+                "personID": 84,
+                "name": "Ilioneus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 86,
+        "name": "Hermothoe",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 87,
+                "name": "Pandareus"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 88,
+                "name": "Aedon"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 88,
+        "name": "Aedon",
+        "gender": "female",
+        "mother": {
+            "personID": 86,
+            "name": "Hermothoe"
+        },
+        "father": {
+            "personID": 87,
+            "name": "Pandareus"
+        },
+        "spouse": [
+            {
+                "personID": 89,
+                "name": "Zethus"
+            }
+        ],
+        "son": [
+            {
+                "personID": 90,
+                "name": "Ithylus"
+            }
+        ],
+        "description": "Aedon's tale is a story of envy and transformation, known for her metamorphosis into a nightingale."
+    },
+    {
+        "personID": 91,
+        "name": "Leda",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 92,
+                "name": "Tyndareus"
+            }
+        ],
+        "son": [
+            {
+                "personID": 93,
+                "name": "Castor"
+            },
+            {
+                "personID": 94,
+                "name": "Polydeuces"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 95,
+        "name": "Arene",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 96,
+                "name": "Aphareus"
+            }
+        ],
+        "son": [
+            {
+                "personID": 97,
+                "name": "Lynceus"
+            },
+            {
+                "personID": 98,
+                "name": "Idas"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 99,
+        "name": "Sterope",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 100,
+                "name": "Oenomaus"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 101,
+                "name": "Alcippe"
+            },
+            {
+                "personID": 104,
+                "name": "Hippodamia"
+            }
+        ],
+        "description": "Sterope, one of the Pleiades, is celebrated for her beauty and is often associated with the constellation of the same name."
+    },
+    {
+        "personID": 101,
+        "name": "Alcippe",
+        "gender": "female",
+        "mother": {
+            "personID": 99,
+            "name": "Sterope"
+        },
+        "father": {
+            "personID": 100,
+            "name": "Oenomaus"
+        },
+        "spouse": [
+            {
+                "personID": 102,
+                "name": "Evenus"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 103,
+                "name": "Marpessa"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 103,
+        "name": "Marpessa",
+        "gender": "female",
+        "mother": {
+            "personID": 101,
+            "name": "Alcippe"
+        },
+        "father": {
+            "personID": 102,
+            "name": "Evenus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 104,
+        "name": "Hippodamia",
+        "gender": "female",
+        "mother": {
+            "personID": 99,
+            "name": "Sterope"
+        },
+        "father": {
+            "personID": 100,
+            "name": "Oenomaus"
+        },
+        "spouse": [
+            {
+                "personID": 299,
+                "name": "Pelops"
+            }
+        ],
+        "son": [
+            {
+                "personID": 164,
+                "name": "Atreus"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 300,
+                "name": "Nikippe"
+            }
+        ],
+        "description": "Hippodamia's story is intertwined with the myth of the chariot race that led to the war between the Lapiths and Centaurs."
+    },
+    {
+        "personID": 105,
+        "name": "Alcmene",
+        "gender": "female",
+        "father": {
+            "personID": 298,
+            "name": "Electryon"
+        },
+        "spouse": [
+            {
+                "personID": 106,
+                "name": "Amphitryon"
+            }
+        ],
+        "son": [
+            {
+                "personID": 107,
+                "name": "Iphicles"
+            },
+            {
+                "personID": 108,
+                "name": "Heracles"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 109,
+        "name": "Megara",
+        "gender": "female",
+        "father": {
+            "personID": 110,
+            "name": "Creon"
+        },
+        "spouse": [
+            {
+                "personID": 108,
+                "name": "Heracles"
+            },
+            {
+                "personID": 138,
+                "name": "Iolaus"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 139,
+                "name": "Leipephilene"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 114,
+        "name": "Chloris",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 115,
+                "name": "Neleus"
+            }
+        ],
+        "son": [
+            {
+                "personID": 116,
+                "name": "Periclymenus"
+            },
+            {
+                "personID": 117,
+                "name": "Nestor"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 119,
+        "name": "Iole",
+        "gender": "female",
+        "father": {
+            "personID": 118,
+            "name": "Eurytos"
+        },
+        "spouse": [
+            {
+                "personID": 131,
+                "name": "Hyllus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 124,
+        "name": "Hesione",
+        "gender": "female",
+        "father": {
+            "personID": 126,
+            "name": "Laomedon"
+        },
+        "spouse": [
+            {
+                "personID": 50,
+                "name": "Telamon"
+            }
+        ],
+        "son": [
+            {
+                "personID": 125,
+                "name": "Teucer"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 129,
+        "name": "Xenodice",
+        "gender": "female",
+        "father": {
+            "personID": 128,
+            "name": "Syleus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 130,
+        "name": "Deianira",
+        "gender": "female",
+        "son": [
+            {
+                "personID": 131,
+                "name": "Hyllus"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 132,
+                "name": "Macaria"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 132,
+        "name": "Macaria",
+        "gender": "female",
+        "mother": {
+            "personID": 130,
+            "name": "Deianira"
+        },
+        "father": {
+            "personID": 108,
+            "name": "Heracles"
+        },
+        "description": ""
+    },
+    {
+        "personID": 133,
+        "name": "Hebe",
+        "gender": "female",
+        "mother": {
+            "personID": 67,
+            "name": "Hera"
+        },
+        "father": {
+            "personID": 1,
+            "name": "Zeus"
+        },
+        "spouse": [
+            {
+                "personID": 108,
+                "name": "Heracles"
+            }
+        ],
+        "son": [
+            {
+                "personID": 134,
+                "name": "Anicetos"
+            },
+            {
+                "personID": 135,
+                "name": "Alexiares"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 139,
+        "name": "Leipephilene",
+        "gender": "female",
+        "mother": {
+            "personID": 109,
+            "name": "Megara"
+        },
+        "father": {
+            "personID": 138,
+            "name": "Iolaus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 141,
+        "name": "Alcestis",
+        "gender": "female",
+        "father": {
+            "personID": 140,
+            "name": "Pelias"
+        },
+        "spouse": [
+            {
+                "personID": 142,
+                "name": "Admetus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 146,
+        "name": "Alope",
+        "gender": "female",
+        "father": {
+            "personID": 145,
+            "name": "Cercyon"
+        },
+        "son": [
+            {
+                "personID": 147,
+                "name": "Hippothoon"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 149,
+        "name": "Phaedra",
+        "gender": "female",
+        "mother": {
+            "personID": 152,
+            "name": "Pasiphae"
+        },
+        "father": {
+            "personID": 148,
+            "name": "Minos"
+        },
+        "description": ""
+    },
+    {
+        "personID": 151,
+        "name": "Ariadne",
+        "gender": "female",
+        "mother": {
+            "personID": 152,
+            "name": "Pasiphae"
+        },
+        "father": {
+            "personID": 148,
+            "name": "Minos"
+        },
+        "spouse": [
+            {
+                "personID": 29,
+                "name": "Dionysus"
+            }
+        ],
+        "description": "Ariadne, known for her role in the myth of Theseus and the Minotaur, symbolizes loyalty and the complexities of love."
+    },
+    {
+        "personID": 152,
+        "name": "Pasiphae",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 148,
+                "name": "Minos"
+            }
+        ],
+        "son": [
+            {
+                "personID": 150,
+                "name": "Androgeos"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 149,
+                "name": "Phaedra"
+            },
+            {
+                "personID": 151,
+                "name": "Ariadne"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 154,
+        "name": "Aethra",
+        "gender": "female",
+        "father": {
+            "personID": 153,
+            "name": "Pittheus"
+        },
+        "son": [
+            {
+                "personID": 156,
+                "name": "Theseus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 157,
+        "name": "Antiope",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 156,
+                "name": "Theseus"
+            }
+        ],
+        "son": [
+            {
+                "personID": 158,
+                "name": "Hippolytus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 159,
+        "name": "Phoebe",
+        "gender": "female",
+        "mother": {
+            "personID": 72,
+            "name": "Gaia"
+        },
+        "father": {
+            "personID": 71,
+            "name": "Uranus"
+        },
+        "spouse": [
+            {
+                "personID": 160,
+                "name": "Coeus"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 73,
+                "name": "Leto"
+            }
+        ],
+        "description": "Phoebe, a Titaness, is associated with the intellect and the Oracle of Delphi, representing the prophetic and intellectual aspects."
+    },
+    {
+        "personID": 161,
+        "name": "Hermione",
+        "gender": "female",
+        "mother": {
+            "personID": 163,
+            "name": "Helen"
+        },
+        "father": {
+            "personID": 162,
+            "name": "Menelaus"
+        },
+        "description": "Hermione, a character in Greek legends, is known for her role in the stories of the Trojan War and its aftermath."
+    },
+    {
+        "personID": 163,
+        "name": "Helen",
+        "gender": "female",
+        "daughter": [
+            {
+                "personID": 161,
+                "name": "Hermione"
+            }
+        ],
+        "description": "Helen of Troy's legendary beauty sparked the Trojan War, making her a central figure in Greek mythology and literature."
+    },
+    {
+        "personID": 166,
+        "name": "Aerope",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 162,
+                "name": "Menelaus"
+            }
+        ],
+        "son": [
+            {
+                "personID": 162,
+                "name": "Menelaus"
+            },
+            {
+                "personID": 165,
+                "name": "Agamemnon"
+            }
+        ],
+        "description": "Aerope's story is linked with the tales of Atreus and Thyestes, playing a pivotal role in the tragic events of their lives."
+    },
+    {
+        "personID": 167,
+        "name": "Clytemnestra",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 165,
+                "name": "Agamemnon"
+            }
+        ],
+        "son": [
+            {
+                "personID": 168,
+                "name": "Orestes"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 169,
+                "name": "Electra"
+            },
+            {
+                "personID": 170,
+                "name": "Iphigenia"
+            }
+        ],
+        "description": "Clytemnestra, famed for her role in the murder of Agamemnon, is a figure representing the themes of revenge and justice."
+    },
+    {
+        "personID": 169,
+        "name": "Electra",
+        "gender": "female",
+        "mother": {
+            "personID": 167,
+            "name": "Clytemnestra"
+        },
+        "father": {
+            "personID": 165,
+            "name": "Agamemnon"
+        },
+        "description": ""
+    },
+    {
+        "personID": 170,
+        "name": "Iphigenia",
+        "gender": "female",
+        "mother": {
+            "personID": 167,
+            "name": "Clytemnestra"
+        },
+        "father": {
+            "personID": 165,
+            "name": "Agamemnon"
+        },
+        "description": ""
+    },
+    {
+        "personID": 173,
+        "name": "Anticlea",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 172,
+                "name": "Laertes"
+            }
+        ],
+        "son": [
+            {
+                "personID": 171,
+                "name": "Odysseus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 174,
+        "name": "Penelope",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 171,
+                "name": "Odysseus"
+            }
+        ],
+        "son": [
+            {
+                "personID": 175,
+                "name": "Telemachus"
+            }
+        ],
+        "description": "Penelope is celebrated for her fidelity and patience during the long absence of her husband, Odysseus."
+    },
+    {
+        "personID": 178,
+        "name": "Pyrrha",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 177,
+                "name": "Deucalion"
+            }
+        ],
+        "son": [
+            {
+                "personID": 176,
+                "name": "Hellen"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 183,
+        "name": "Clymene",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 182,
+                "name": "Iapetus"
+            }
+        ],
+        "son": [
+            {
+                "personID": 179,
+                "name": "Prometheus"
+            },
+            {
+                "personID": 180,
+                "name": "Atlas"
+            },
+            {
+                "personID": 181,
+                "name": "Epimetheus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 233,
+        "name": "Nyx",
+        "gender": "female",
+        "daughter": [
+            {
+                "personID": 234,
+                "name": "Atrapos"
+            },
+            {
+                "personID": 235,
+                "name": "Clotho"
+            },
+            {
+                "personID": 236,
+                "name": "Lachesis"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 234,
+        "name": "Atrapos",
+        "gender": "female",
+        "mother": {
+            "personID": 233,
+            "name": "Nyx"
+        },
+        "father": {
+            "personID": 232,
+            "name": "Erebus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 235,
+        "name": "Clotho",
+        "gender": "female",
+        "mother": {
+            "personID": 233,
+            "name": "Nyx"
+        },
+        "father": {
+            "personID": 232,
+            "name": "Erebus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 236,
+        "name": "Lachesis",
+        "gender": "female",
+        "mother": {
+            "personID": 233,
+            "name": "Nyx"
+        },
+        "father": {
+            "personID": 232,
+            "name": "Erebus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 237,
+        "name": "Pandora",
+        "gender": "female",
+        "description": "Pandora, associated with the 'Pandora's Box', symbolizes the unexpected consequences of curiosity and disobedience."
+    },
+    {
+        "personID": 238,
+        "name": "Demeter",
+        "gender": "female",
+        "mother": {
+            "personID": 69,
+            "name": "Rhea"
+        },
+        "father": {
+            "personID": 70,
+            "name": "Cronos"
+        },
+        "daughter": [
+            {
+                "personID": 239,
+                "name": "Persephone"
+            }
+        ],
+        "description": "The goddess of agriculture and the harvest, Demeter is revered for her power over the growth and fertility of the earth."
+    },
+    {
+        "personID": 239,
+        "name": "Persephone",
+        "gender": "female",
+        "mother": {
+            "personID": 238,
+            "name": "Demeter"
+        },
+        "father": {
+            "personID": 1,
+            "name": "Zeus"
+        },
+        "spouse": [
+            {
+                "personID": 240,
+                "name": "Hades"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 278,
+        "name": "Metis",
+        "gender": "female",
+        "daughter": [
+            {
+                "personID": 279,
+                "name": "Athene"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 279,
+        "name": "Athene",
+        "gender": "female",
+        "mother": {
+            "personID": 278,
+            "name": "Metis"
+        },
+        "father": {
+            "personID": 1,
+            "name": "Zeus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 281,
+        "name": "Danae",
+        "gender": "female",
+        "father": {
+            "personID": 282,
+            "name": "Acrisius"
+        },
+        "son": [
+            {
+                "personID": 280,
+                "name": "Perseus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 283,
+        "name": "Eurydice",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 284,
+                "name": "Orpheus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 286,
+        "name": "Calliope",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 287,
+                "name": "Oeagrus"
+            }
+        ],
+        "son": [
+            {
+                "personID": 284,
+                "name": "Orpheus"
+            },
+            {
+                "personID": 285,
+                "name": "Linus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 289,
+        "name": "Ismene",
+        "gender": "female",
+        "mother": {
+            "personID": 18,
+            "name": "Jocasta"
+        },
+        "father": {
+            "personID": 17,
+            "name": "Oedipus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 290,
+        "name": "Antigone",
+        "gender": "female",
+        "mother": {
+            "personID": 18,
+            "name": "Jocasta"
+        },
+        "father": {
+            "personID": 17,
+            "name": "Oedipus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 293,
+        "name": "Cassiopeia",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 292,
+                "name": "Cepheus"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 294,
+                "name": "Andromeda"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 294,
+        "name": "Andromeda",
+        "gender": "female",
+        "mother": {
+            "personID": 293,
+            "name": "Cassiopeia"
+        },
+        "father": {
+            "personID": 292,
+            "name": "Cepheus"
+        },
+        "spouse": [
+            {
+                "personID": 280,
+                "name": "Perseus"
+            }
+        ],
+        "son": [
+            {
+                "personID": 295,
+                "name": "Perses"
+            },
+            {
+                "personID": 296,
+                "name": "Alcaeus"
+            },
+            {
+                "personID": 297,
+                "name": "Sthenelus"
+            },
+            {
+                "personID": 298,
+                "name": "Electryon"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 300,
+        "name": "Nikippe",
+        "gender": "female",
+        "mother": {
+            "personID": 104,
+            "name": "Hippodamia"
+        },
+        "father": {
+            "personID": 299,
+            "name": "Pelops"
+        },
+        "spouse": [
+            {
+                "personID": 297,
+                "name": "Sthenelus"
+            }
+        ],
+        "son": [
+            {
+                "personID": 301,
+                "name": "Eurystheus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 303,
+        "name": "Daphne",
+        "gender": "female",
+        "father": {
+            "personID": 302,
+            "name": "Peneus"
+        },
+        "description": ""
+    },
+    {
+        "personID": 306,
+        "name": "Artemis",
+        "gender": "female",
+        "mother": {
+            "personID": 73,
+            "name": "Leto"
+        },
+        "father": {
+            "personID": 1,
+            "name": "Zeus"
+        },
+        "description": "Artemis, the goddess of the hunt, wilderness, and childbirth, is revered as a protector and a symbol of independence."
+    },
+    {
+        "personID": 307,
+        "name": "Syrinx",
+        "gender": "female",
+        "description": ""
+    },
+    {
+        "personID": 309,
+        "name": "Arachne",
+        "gender": "female",
+        "description": "Arachne, known for her weaving contest with Athena, embodies themes of pride, skill, and transformation."
+    },
+    {
+        "personID": 311,
+        "name": "Tethys",
+        "gender": "female",
+        "mother": {
+            "personID": 72,
+            "name": "Gaia"
+        },
+        "father": {
+            "personID": 71,
+            "name": "Uranus"
+        },
+        "spouse": [
+            {
+                "personID": 310,
+                "name": "Oceanus"
+            },
+            {
+                "personID": 311,
+                "name": "Tethys"
+            }
+        ],
+        "son": [
+            {
+                "personID": 312,
+                "name": "Cephissus"
+            },
+            {
+                "personID": 348,
+                "name": "Cebren"
+            },
+            {
+                "personID": 351,
+                "name": "Grenicus"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 318,
+                "name": "Liriope"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 314,
+        "name": "Echo",
+        "gender": "female",
+        "description": ""
+    },
+    {
+        "personID": 316,
+        "name": "Salmacis",
+        "gender": "female",
+        "description": ""
+    },
+    {
+        "personID": 318,
+        "name": "Liriope",
+        "gender": "female",
+        "mother": {
+            "personID": 311,
+            "name": "Tethys"
+        },
+        "father": {
+            "personID": 310,
+            "name": "Oceanus"
+        },
+        "spouse": [
+            {
+                "personID": 311,
+                "name": "Tethys"
+            }
+        ],
+        "son": [
+            {
+                "personID": 313,
+                "name": "Narcissus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 321,
+        "name": "Alcathoe",
+        "gender": "female",
+        "father": {
+            "personID": 320,
+            "name": "Minyas"
+        },
+        "description": ""
+    },
+    {
+        "personID": 322,
+        "name": "Leucippe",
+        "gender": "female",
+        "father": {
+            "personID": 320,
+            "name": "Minyas"
+        },
+        "description": ""
+    },
+    {
+        "personID": 323,
+        "name": "Arsippe",
+        "gender": "female",
+        "father": {
+            "personID": 320,
+            "name": "Minyas"
+        },
+        "description": ""
+    },
+    {
+        "personID": 325,
+        "name": "Thisbe",
+        "gender": "female",
+        "description": ""
+    },
+    {
+        "personID": 327,
+        "name": "Zeuxippe",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 326,
+                "name": "Pandion"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 328,
+                "name": "Philomela"
+            },
+            {
+                "personID": 329,
+                "name": "Procne"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 328,
+        "name": "Philomela",
+        "gender": "female",
+        "mother": {
+            "personID": 327,
+            "name": "Zeuxippe"
+        },
+        "father": {
+            "personID": 326,
+            "name": "Pandion"
+        },
+        "description": ""
+    },
+    {
+        "personID": 329,
+        "name": "Procne",
+        "gender": "female",
+        "mother": {
+            "personID": 327,
+            "name": "Zeuxippe"
+        },
+        "father": {
+            "personID": 326,
+            "name": "Pandion"
+        },
+        "spouse": [
+            {
+                "personID": 330,
+                "name": "Tereus"
+            }
+        ],
+        "son": [
+            {
+                "personID": 331,
+                "name": "Itys"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 333,
+        "name": "Baucis",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 332,
+                "name": "Philemon"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 335,
+        "name": "Diomede",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 334,
+                "name": "Amyclas"
+            }
+        ],
+        "son": [
+            {
+                "personID": 336,
+                "name": "Hyacintus"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 338,
+        "name": "Paphos",
+        "gender": "female",
+        "father": {
+            "personID": 337,
+            "name": "Pygmalion"
+        },
+        "description": ""
+    },
+    {
+        "personID": 340,
+        "name": "Kenchreis",
+        "gender": "female",
+        "spouse": [
+            {
+                "personID": 339,
+                "name": "Cinyras"
+            }
+        ],
+        "daughter": [
+            {
+                "personID": 341,
+                "name": "Myrrha"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 341,
+        "name": "Myrrha",
+        "gender": "female",
+        "mother": {
+            "personID": 340,
+            "name": "Kenchreis"
+        },
+        "father": {
+            "personID": 339,
+            "name": "Cinyras"
+        },
+        "son": [
+            {
+                "personID": 342,
+                "name": "Adonis"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 346,
+        "name": "Alkyone",
+        "gender": "female",
+        "father": {
+            "personID": 345,
+            "name": "Aeolus"
+        },
+        "spouse": [
+            {
+                "personID": 344,
+                "name": "Ceyx"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "personID": 349,
+        "name": "Hesperia",
+        "gender": "female",
+        "father": {
+            "personID": 348,
+            "name": "Cebren"
+        },
+        "description": ""
+    },
+    {
+        "personID": 350,
+        "name": "Alexirhoe",
+        "gender": "female",
+        "father": {
+            "personID": 351,
+            "name": "Grenicus"
+        },
+        "spouse": [
+            {
+                "personID": 352,
+                "name": "Priam"
+            }
+        ],
+        "son": [
+            {
+                "personID": 353,
+                "name": "Aesacus"
+            }
+        ],
+        "description": ""
+    }
+]
