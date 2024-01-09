@@ -17,6 +17,9 @@
 		84067B512B3DA468000B6503 /* persons.json in Resources */ = {isa = PBXBuildFile; fileRef = 84067B502B3DA467000B6503 /* persons.json */; };
 		84067B532B3ED0D6000B6503 /* PersonDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84067B522B3ED0D6000B6503 /* PersonDetailsView.swift */; };
 		84067B552B3ED0FE000B6503 /* TreeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84067B542B3ED0FE000B6503 /* TreeViewModel.swift */; };
+		84E154D72B4DA160000146FE /* QuizViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E154D62B4DA160000146FE /* QuizViewModel.swift */; };
+		84E154D92B4DA191000146FE /* QuizView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E154D82B4DA191000146FE /* QuizView.swift */; };
+		84E154DB2B4DA1AE000146FE /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E154DA2B4DA1AE000146FE /* Question.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +34,9 @@
 		84067B502B3DA467000B6503 /* persons.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = persons.json; sourceTree = "<group>"; };
 		84067B522B3ED0D6000B6503 /* PersonDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonDetailsView.swift; sourceTree = "<group>"; };
 		84067B542B3ED0FE000B6503 /* TreeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeViewModel.swift; sourceTree = "<group>"; };
+		84E154D62B4DA160000146FE /* QuizViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizViewModel.swift; sourceTree = "<group>"; };
+		84E154D82B4DA191000146FE /* QuizView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizView.swift; sourceTree = "<group>"; };
+		84E154DA2B4DA1AE000146FE /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,16 +69,11 @@
 		84067B3B2B3C6795000B6503 /* Greece */ = {
 			isa = PBXGroup;
 			children = (
-				84067B4C2B3DA281000B6503 /* PersonDetail.swift */,
-				84067B3C2B3C6795000B6503 /* GreeceApp.swift */,
-				84067B3E2B3C6795000B6503 /* ContentView.swift */,
-				84067B402B3C6797000B6503 /* Assets.xcassets */,
+				84E154DE2B4DA1E6000146FE /* Model */,
+				84E154DD2B4DA1C8000146FE /* ViewModels */,
+				84E154DC2B4DA1C0000146FE /* Views */,
+				84E154DF2B4DA1FD000146FE /* Common */,
 				84067B422B3C6797000B6503 /* Preview Content */,
-				84067B4A2B3C86CD000B6503 /* Constants.swift */,
-				84067B4E2B3DA32E000B6503 /* TreeView.swift */,
-				84067B502B3DA467000B6503 /* persons.json */,
-				84067B522B3ED0D6000B6503 /* PersonDetailsView.swift */,
-				84067B542B3ED0FE000B6503 /* TreeViewModel.swift */,
 			);
 			path = Greece;
 			sourceTree = "<group>";
@@ -83,6 +84,46 @@
 				84067B432B3C6797000B6503 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		84E154DC2B4DA1C0000146FE /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				84067B3E2B3C6795000B6503 /* ContentView.swift */,
+				84067B4E2B3DA32E000B6503 /* TreeView.swift */,
+				84067B522B3ED0D6000B6503 /* PersonDetailsView.swift */,
+				84E154D82B4DA191000146FE /* QuizView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		84E154DD2B4DA1C8000146FE /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				84067B542B3ED0FE000B6503 /* TreeViewModel.swift */,
+				84E154D62B4DA160000146FE /* QuizViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		84E154DE2B4DA1E6000146FE /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				84067B4C2B3DA281000B6503 /* PersonDetail.swift */,
+				84E154DA2B4DA1AE000146FE /* Question.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		84E154DF2B4DA1FD000146FE /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				84067B3C2B3C6795000B6503 /* GreeceApp.swift */,
+				84067B402B3C6797000B6503 /* Assets.xcassets */,
+				84067B4A2B3C86CD000B6503 /* Constants.swift */,
+				84067B502B3DA467000B6503 /* persons.json */,
+			);
+			path = Common;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -158,7 +199,10 @@
 			files = (
 				84067B532B3ED0D6000B6503 /* PersonDetailsView.swift in Sources */,
 				84067B552B3ED0FE000B6503 /* TreeViewModel.swift in Sources */,
+				84E154D92B4DA191000146FE /* QuizView.swift in Sources */,
 				84067B4F2B3DA32E000B6503 /* TreeView.swift in Sources */,
+				84E154D72B4DA160000146FE /* QuizViewModel.swift in Sources */,
+				84E154DB2B4DA1AE000146FE /* Question.swift in Sources */,
 				84067B3F2B3C6795000B6503 /* ContentView.swift in Sources */,
 				84067B3D2B3C6795000B6503 /* GreeceApp.swift in Sources */,
 				84067B4B2B3C86CD000B6503 /* Constants.swift in Sources */,

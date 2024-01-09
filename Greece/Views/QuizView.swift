@@ -1,41 +1,11 @@
 //
-//  ContentView.swift
+//  QuizView.swift
 //  Greece
 //
-//  Created by mnats on 27.12.2023.
+//  Created by mnats on 09.01.2024.
 //
 
 import SwiftUI
-
-struct Question {
-    let text: String
-    let options: [String]
-    let correctAnswer: String
-}
-
-final class QuizViewModel: ObservableObject {
-    @AppStorage("currentNumber") var currentQuestionNumber: Int = 0
-    var questions: [Question] = []
-    
-    var currentQuestion: Question {
-        questions[currentQuestionNumber]
-    }
-    
-    init() {
-        self.questions = Constants.questions
-        self.currentQuestionNumber = 0
-    }
-    
-    func checkAnswer(_ answer: String) -> Bool {
-        return answer == currentQuestion.correctAnswer
-    }
-    
-    func nextQuestion() {
-        if currentQuestionNumber + 1 < questions.count - 1 {
-            currentQuestionNumber += 1
-        }
-    }
-}
 
 struct QuizView: View {
     @ObservedObject var viewModel = QuizViewModel()
@@ -91,42 +61,4 @@ struct QuizView: View {
         }
         .padding()
     }
-}
-
-struct ContentView: View {
-    var body: some View {
-        NavigationView {
-            VStack {
-                NavigationLink(destination: QuizView()) {
-                    Text("Quiz")
-                        .font(.largeTitle.bold())
-                        .frame(maxWidth: .infinity)
-                        .padding()
-                        .background {
-                            RoundedRectangle(cornerRadius: 25)
-                                .foregroundStyle(.blue)
-                                .opacity(0.3)
-                        }
-                        .tint(.white)
-                }
-                NavigationLink(destination: TreeView()) {
-                    Text("Persons")
-                        .font(.largeTitle.bold())
-                        .frame(maxWidth: .infinity)
-                        .padding()
-                        .background {
-                            RoundedRectangle(cornerRadius: 25)
-                                .foregroundStyle(.blue)
-                                .opacity(0.3)
-                        }
-                        .tint(.white)
-                }
-            }
-            .padding()
-        }
-    }
-}
-
-#Preview {
-    ContentView()
 }
