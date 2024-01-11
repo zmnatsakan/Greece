@@ -11,6 +11,10 @@ import Combine
 final class TreeViewModel: ObservableObject {
     @Published var persons: [PersonDetail] = []
     
+    init() {
+        loadPersons()
+    }
+    
     func loadPersons() {
         if let url = Bundle.main.url(forResource: "persons", withExtension: "json") {
             do {
