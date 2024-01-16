@@ -6,6 +6,8 @@
 //
 //
 
+import Foundation
+
 enum Topic: String, CaseIterable {
     case greekGods = "Greek Gods"
     case historyFacts = "History Facts"
@@ -13,6 +15,10 @@ enum Topic: String, CaseIterable {
     case mythologicalStories = "Mythological Stories"
     case philosophyAndLiterature = "Philosophy and Literature"
     case others = "Other"
+    
+    var bestScore: Int {
+        return UserDefaults.standard.integer(forKey: rawValue)
+    }
 }
 
 struct Question {
