@@ -6,9 +6,10 @@
 //
 
 import Foundation
-import Combine
+import SwiftUI
 
 final class TreeViewModel: ObservableObject {
+    @AppStorage("favorites") var favorites: [Int] = []
     @Published var persons: [PersonDetail] = []
     
     init() {

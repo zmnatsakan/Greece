@@ -32,12 +32,6 @@ final class QuizViewModel: ObservableObject {
     }
     
     func restart() {
-//        questions = []
-//        if let topic {
-//            questions = Constants.questions.filter({$0.topic == topic})
-//        } else {
-//            questions = Constants.questions
-//        }
         currentQuestionNumber = 0
         isFinished = false
     }

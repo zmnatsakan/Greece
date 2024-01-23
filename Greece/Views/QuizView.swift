@@ -99,16 +99,13 @@ struct QuizView: View {
                             selectedOption = nil
                             viewModel.nextQuestion()
                         } label: {
-                            Text("Next question")
+                            HStack {
+                                Text("Next question")
+                                Image(systemName: "arrow.right")
+                            }
+                                .font(.title.bold())
                                 .frame(maxWidth: .infinity)
-                                .padding()
-                                .background {
-                                    RoundedRectangle(cornerRadius: 25)
-                                        .foregroundStyle(.blue)
-                                        .opacity(0.3)
-                                }
-                                .tint(.primary)
-                                .bold()
+                                .titleBack()
                         }
                         .disabled(selectedOption == nil)
                         .opacity(selectedOption == nil ? 0 : 1)

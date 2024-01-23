@@ -421,7 +421,7 @@
                 "name": "Pentheus"
             }
         ],
-        "description": ""
+        "description": "In Greek mythology, he is one of the Spartoi, the warriors who emerged from the dragon's teeth sown by Cadmus in Thebes. Distinguished for his valor and as one of the five survivors who aided in building Thebes, he married Cadmus's daughter, Agave, intertwining his fate with the city's founding lineage and the complex narratives of divine and mortal interplay."
     },
     {
         "personID": 31,
@@ -435,7 +435,7 @@
             "personID": 30,
             "name": "Echion"
         },
-        "description": ""
+        "description": "The king of Thebes, is known for his tragic end due to his denial of Dionysus's divinity and opposition to his worship. His tale embodies the themes of hubris and the peril of defying divine authority."
     },
     {
         "personID": 32,
@@ -451,7 +451,7 @@
                 "name": "Creusa"
             }
         ],
-        "description": ""
+        "description": "Noted for his lineage and connections, he found prominence through his marriage to Creusa, the daughter of Erechtheus, king of Athens. His tale weaves through themes of identity, lineage, and the complexities of ancient familial bonds."
     },
     {
         "personID": 34,
@@ -465,7 +465,7 @@
             "personID": 35,
             "name": "Apollo"
         },
-        "description": ""
+        "description": "Born under mysterious circumstances, he is celebrated for his journey of self-discovery, entwined with themes of destiny and the intricate dynamics of family and heritage in the ancient world."
     },
     {
         "personID": 35,
@@ -485,7 +485,7 @@
                 "name": "Ion"
             }
         ],
-        "description": ""
+        "description": "Renowned as a deity of music, arts, and prophecy, his presence weaves through tales of beauty, artistic inspiration, and the profound depths of foresight, shaping the fabric of both divine and mortal realms."
     },
     {
         "personID": 36,
@@ -497,7 +497,7 @@
                 "name": "Icarus"
             }
         ],
-        "description": ""
+        "description": "Celebrated for his extraordinary craftsmanship and ingenuity, he is most famous for crafting the labyrinth of the Minotaur and the wings that enabled his son's flight. His tale intertwines creativity and wisdom with the poignant consequences of human ambition and the limits of mortal endeavors."
     },
     {
         "personID": 37,
@@ -507,7 +507,7 @@
             "personID": 36,
             "name": "Daedalus"
         },
-        "description": ""
+        "description": "Known for his daring flight towards the sun, his story is a poignant narrative of youthful ambition and the tragic cost of overreaching, set against the backdrop of his father's ingenious but perilous inventions."
     },
     {
         "personID": 38,
@@ -515,13 +515,13 @@
         "gender": "male",
         "mother": {
             "personID": 26,
-            "name": "Autono\u00eb"
+            "name": "Autono"
         },
         "father": {
             "personID": 39,
             "name": "Aristaeus"
         },
-        "description": ""
+        "description": "A mortal hunter whose unfortunate encounter with the goddess Artemis led to his transformation into a stag and eventual demise. His story serves as a cautionary tale of the consequences of trespassing into the realm of the divine and incurring the wrath of the gods."
     },
     {
         "personID": 39,
@@ -539,7 +539,7 @@
                 "name": "Actaeon"
             }
         ],
-        "description": ""
+        "description": "A minor god of beekeeping, cheese-making, herding, olive-growing, and hunting, his tale is intertwined with themes of nature and the divine, as well as the complex interplay between the mortal and immortal realms."
     },
     {
         "personID": 40,
@@ -573,7 +573,7 @@
                 "name": "Telamon"
             }
         ],
-        "description": ""
+        "description": "A king of the island of Aegina, he is celebrated for his piety and justice. His tale is intertwined with themes of divine justice and the complexities of familial bonds in the ancient world."
     },
     {
         "personID": 48,
@@ -587,7 +587,7 @@
             "personID": 40,
             "name": "Aeacus"
         },
-        "description": ""
+        "description": "A mortal son of Aeacus, he is celebrated for his athletic prowess and his tragic demise. His tale is intertwined with themes of family, fate, and the consequences of divine wrath."
     },
     {
         "personID": 49,
@@ -613,7 +613,7 @@
                 "name": "Achilles"
             }
         ],
-        "description": ""
+        "description": "A mortal king of Phthia, he is celebrated for his marriage to the goddess Thetis and his role in the mythological events leading up to the Trojan War. His tale is intertwined with themes of fate, family, and the complex interplay between the mortal and immortal realms."
     },
     {
         "personID": 50,
@@ -643,7 +643,7 @@
                 "name": "Teucer"
             }
         ],
-        "description": ""
+        "description": "A mortal king of Salamis, he is celebrated for his role in the mythological events leading up to the Trojan War. His tale is intertwined with themes of fate, family, and the complex interplay between the mortal and immortal realms."
     },
     {
         "personID": 52,
@@ -669,7 +669,7 @@
                 "name": "Hermaphroditus"
             }
         ],
-        "description": ""
+        "description": "The messenger of the gods, he is celebrated for his cunning and his role as a psychopomp. His tale is intertwined with themes of trickery, travel, and the complex interplay between the mortal and immortal realms."
     },
     {
         "personID": 53,
@@ -689,7 +689,7 @@
                 "name": "Procris"
             }
         ],
-        "description": ""
+        "description": "A mortal son of Hermes, he is celebrated for his hunting prowess and his tragic demise. His tale is intertwined with themes of family, fate, and the consequences of divine wrath."
     },
     {
         "personID": 55,
@@ -815,7 +815,7 @@
                 "name": "Harmonia"
             }
         ],
-        "description": ""
+        "description": "The god of war, he is celebrated for his strength and courage. His tale is intertwined with themes of violence, wrath, and the complex interplay between the mortal and immortal realms."
     },
     {
         "personID": 70,
@@ -855,7 +855,7 @@
                 "name": "Demeter"
             }
         ],
-        "description": ""
+        "description": "The god of time and the ages, he is celebrated for his role in the overthrow of his father, Uranus. His tale is intertwined with themes of family, fate, and the consequences of divine wrath."
     },
     {
         "personID": 71,
